@@ -1,6 +1,6 @@
 # spotify_app
 
-A new Flutter project.
+![Untitled design](https://user-images.githubusercontent.com/72551841/202867374-8e497289-fe07-4707-bc80-a65650cc7fae.png)
 
 ## Getting Started
 
